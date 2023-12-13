@@ -2,11 +2,9 @@
 
 import React, { useState } from 'react';
 import imglyRemoveBackground from '@imgly/background-removal';
-
 import { IoChevronBackSharp } from "react-icons/io5";
 import { MdFileDownload } from "react-icons/md";
 import Link from 'next/link';
-
 
 const RemoveBg = () => {
   const [imageSrc, setImageSrc] = useState(null);
