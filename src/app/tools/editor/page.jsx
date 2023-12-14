@@ -1,8 +1,8 @@
 'use client'
 
 import { useState, useEffect } from 'react';
-import { fabric } from 'fabric'
-import 'fabric-history'
+import { fabric } from 'fabric';
+import 'fabric-history';
 
 import { Header } from './components/Header';
 import { SideBar } from './components/SideBar';
