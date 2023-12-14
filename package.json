@@ -11,11 +11,10 @@
   },
   "dependencies": {
     "@imgly/background-removal": "^1.2.1",
-    "canvas": "https://registry.yarnpkg.com/@favware/skip-dependency/-/skip-dependency-1.2.1.tgz",
+    "canvas": "^2.11.2",
     "fabric": "^5.3.0",
     "fabric-history": "^1.7.0",
     "file-saver": "^2.0.5",
-    "jsdom": "^23.0.1",
     "jszip": "^3.10.1",
     "next": "14.0.4",
     "package": "^1.0.1",
