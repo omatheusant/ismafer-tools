@@ -2,7 +2,7 @@
 
 import { useState } from 'react';
 import { MdOutlineTextFields } from 'react-icons/md';
-import { fabric } from 'fabric-pure-browser'
+import { fabric } from 'fabric'
 
 export function AddText({ canvas }) {
   

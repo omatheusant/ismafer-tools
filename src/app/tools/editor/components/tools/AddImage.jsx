@@ -1,6 +1,6 @@
 'use client'
 
-import { fabric } from 'fabric-pure-browser'
+import { fabric } from 'fabric'
 import { FaCloudUploadAlt } from 'react-icons/fa';
 
 export const AddImage = ({ canvas }) => {
