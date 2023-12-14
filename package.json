@@ -7,16 +7,15 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "lint": "next lint",
-    "vercel-build": "yum install gcc-c++ cairo-devel pango-devel libjpeg-turbo-devel giflib-devel"
+    "lint": "next lint"
   },
   "dependencies": {
     "@imgly/background-removal": "^1.2.1",
-    "canvas": "^2.11.2",
+    "canvas": "https://registry.yarnpkg.com/@favware/skip-dependency/-/skip-dependency-1.2.1.tgz",    
     "fabric": "^5.3.0",
     "fabric-history": "^1.7.0",
     "file-saver": "^2.0.5",
-    "jsdom": "^19.0.0",
+    "jsdom": "^23.0.1",
     "jszip": "^3.10.1",
     "next": "14.0.4",
     "package": "^1.0.1",
