@@ -1,7 +1,7 @@
 'use client'
 
 import { FaEraser } from 'react-icons/fa'
-import { fabric } from 'fabric';
+import { fabric } from 'fabric-pure-browser'
 import { useEffect, useState } from 'react';
 
 export const Eraser = ({ canvas }) => {

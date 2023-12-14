@@ -1,7 +1,7 @@
 'use client'
 
 import { useState, useEffect } from 'react';
-import { fabric } from 'fabric'
+import { fabric } from 'fabric-pure-browser'
 import 'fabric-history'
 
 import { Header } from './components/Header';
